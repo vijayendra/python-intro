@@ -65,3 +65,6 @@
     GUID: 78d4c7c6-5d4d-497e-8cb1-1448534f79a9
 ```
 1. Print your Profile `dict` using `pprint`.
+1. Send me `assignment01.py` on Slack direct message to me.
+
+Thanks.
