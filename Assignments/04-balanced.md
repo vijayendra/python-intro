@@ -4,7 +4,7 @@
 Solve Balanced Paraenthesis problem by creating a `Stack` datastructure
 using `Python` classes.
 
-1. Create a script `balacned.py` as follows:
+1. Create a script `balanced.py` as follows:
     ```python
     import doctest
 
