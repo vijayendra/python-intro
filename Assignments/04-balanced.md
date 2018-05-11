@@ -121,7 +121,7 @@ using `Python` classes.
 
 1. On completion you should see the output as follows:
     ```bash
-    $ python2.7 balanced.py - v
+    $ python2.7 balanced.py -v
     Trying:
         stack = Stack()
     Expecting nothing
