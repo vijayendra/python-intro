@@ -1,6 +1,6 @@
 # Python Introduction
 
-[See the detail training document](https://github.com/vijayendra/python-intro/wiki)
+[See the detail training document](http://bapte.us)
 
 # License
 
