@@ -1,6 +1,6 @@
 # Python Introduction
 
-[See the detail training document](http://bapte.us)
+<a href="http://www.bapte.us" target="_blank">See the detail training document</a>
 
 # License
 
